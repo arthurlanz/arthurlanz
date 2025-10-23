@@ -59,16 +59,6 @@ Sou estudante de **Informática para Internet** no Instituto Federal Catarinense
 
 ---
 
-## 🔥 Streak Stats
-
-<div align="center">
-  
-  [![GitHub Streak](https://streak-stats.demolab.com?user=arthurlanz&theme=tokyonight&hide_border=true&background=0D1117&ring=667EEA&fire=667EEA&currStreakLabel=667EEA)](https://git.io/streak-stats)
-  
-</div>
-
----
-
 ## 🌐 Conecte-se Comigo
 
 <div align="center">
@@ -76,16 +66,6 @@ Sou estudante de **Informática para Internet** no Instituto Federal Catarinense
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-lanznaster-0546532b8/)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arthurlanz_)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arthurlanz)
-  
-</div>
-
----
-
-## 💡 Frase Inspiradora
-
-<div align="center">
-  
-  > *"A melhor maneira de prever o futuro é inventá-lo."* - Alan Kay
   
 </div>
 
