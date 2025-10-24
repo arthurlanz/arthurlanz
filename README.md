@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=667EEA&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Estudante+de+TI;)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=667EEA&center=true&vCenter=true&width=435&lines=Desenvolvedor+em+Formação;Estudante+de+TI;)
   
 </div>
 
@@ -13,7 +13,7 @@ Sou estudante de **Informática para Internet** no Instituto Federal Catarinense
 🌍 **Localização:** Joinville - Santa Catarina, Brasil  
 🎓 **Instituição:** IFC - Instituto Federal Catarinense  
 📚 **Curso:** Técnico em Informática para Internet  
-💡 **Foco:** Desenvolvimento Full Stack
+💡 **Foco:** Desenvolvimento Front End
 
 ---
 
