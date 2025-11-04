@@ -54,8 +54,6 @@ Sou estudante de **Informática para Internet** no Instituto Federal Catarinense
 - 📚 Aprofundar conhecimentos em **Vue.js** e frameworks modernos
 - 🔧 Desenvolver projetos práticos e completos
 - 🌱 Aprender novas tecnologias de back-end
-- 🤝 Contribuir para projetos open source
-- 💼 Construir um portfólio sólido
 
 ---
 
