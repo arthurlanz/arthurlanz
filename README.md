@@ -67,16 +67,13 @@ Plataforma de streaming especializada em filmes de terror com Vue.js e API TMDB.
 ### 🎭 [Join-Ville](https://join-ville-dusky.vercel.app/)
 Plataforma de eventos culturais desenvolvida para o Hackaton do IFC Araquari.
 
-### 🎥 [MetFlix](https://metflix-frontend-pi.vercel.app/)
-Plataforma de streaming completa com autenticação e backend robusto.
-
 ---
 
 ## 🎯 Objetivos Atuais
 
-- 🚀 Aprofundar conhecimentos em **Vue.js** e **React**
+- 🚀 Aprofundar conhecimentos em **Vue.js**
 - 🔧 Desenvolver projetos fullstack completos
-- 🌱 Aprender **TypeScript** e **Docker**
+- 🌱 Aprender **TypeScript**, **Docker** e **React**
 - 💼 Expandir portfolio com projetos comerciais
 - 🏆 Participar de mais hackathons e competições
 
