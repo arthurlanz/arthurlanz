@@ -16,8 +16,6 @@ Sou estudante do **2º ano de Informática para Internet** no Instituto Federal 
 💡 **Foco:** Desenvolvimento Frontend & Fullstack  
 🏆 **Experiência:** Projetos Freelance & Participação em Hackathons
 
----
-
 ## 🛠️ Tecnologias & Ferramentas
 
 ### Frontend
@@ -39,25 +37,23 @@ Sou estudante do **2º ano de Informática para Internet** no Instituto Federal 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
----
-
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurlanz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667EEA&icon_color=667EEA&text_color=FFFFFF&count_private=true&include_all_commits=true"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurlanz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667EEA&text_color=FFFFFF&langs_count=6"/>
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arthurlanz&theme=tokyonight&hide_border=true&background=0D1117&ring=667EEA&fire=667EEA&currStreakLabel=667EEA&sideLabels=667EEA&dates=FFFFFF)](https://git.io/streak-stats)
   
 </div>
 
 <div align="center">
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arthurlanz&theme=tokyonight&hide_border=true&background=0D1117&ring=667EEA&fire=667EEA&currStreakLabel=667EEA)](https://git.io/streak-stats)
+  ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=arthurlanz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667EEA&icon_color=667EEA&text_color=FFFFFF&count_private=true&include_all_commits=true)
+  
+  ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=arthurlanz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667EEA&text_color=FFFFFF&langs_count=8)
   
 </div>
 
----
+<div align="center">
 
 ## 🏆 Projetos em Destaque
 
@@ -67,8 +63,6 @@ Plataforma de streaming especializada em filmes de terror com Vue.js e API TMDB.
 ### 🎭 [Join-Ville](https://join-ville-dusky.vercel.app/)
 Plataforma de eventos culturais desenvolvida para o Hackaton do IFC Araquari.
 
----
-
 ## 🎯 Objetivos Atuais
 
 - 🚀 Aprofundar conhecimentos em **Vue.js**
@@ -77,18 +71,12 @@ Plataforma de eventos culturais desenvolvida para o Hackaton do IFC Araquari.
 - 💼 Expandir portfolio com projetos comerciais
 - 🏆 Participar de mais hackathons e competições
 
----
-
 ## 📈 Atividade Recente
 
-<!--START_SECTION:activity-->
 - 💻 Trabalhando em projetos freelance
 - 🎓 Estudando Vue.js avançado
 - 🏗️ Desenvolvendo aplicações fullstack
 - 🤝 Colaborando em projetos open source
-<!--END_SECTION:activity-->
-
----
 
 ## 🌐 Conecte-se Comigo
 
@@ -101,7 +89,6 @@ Plataforma de eventos culturais desenvolvida para o Hackaton do IFC Araquari.
   
 </div>
 
----
 
 <div align="center">
   
