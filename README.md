@@ -105,10 +105,9 @@ Plataforma de eventos culturais desenvolvida para o Hackaton do IFC Araquari.
 
 <div align="center">
   
-  ### 💜 Obrigado pela visita!
+  ### Obrigado pela visita!
   
   ![Profile Views](https://komarev.com/ghpvc/?username=arthurlanz&color=667eea&style=for-the-badge)
   
-  ⭐ Desenvolvido com ❤️ por Arthur Lanznaster
   
 </div>
