@@ -8,13 +8,15 @@
 
 ## 🚀 Sobre Mim
 
-Sou estudante do **2º ano de Informática para Internet** no Instituto Federal Catarinense - Campus Araquari, apaixonado por tecnologia e desenvolvimento web. Sempre em busca de novos desafios e oportunidades para aprender e crescer na área de tecnologia.
+Sou estudante do **2º ano de Informática para Internet** no Instituto Federal Catarinense - Campus Araquari, em busca de novos desafios e oportunidades para aprender e crescer na área de tecnologia.
 
 🌍 **Localização:** Joinville - Santa Catarina, Brasil  
 🎓 **Instituição:** IFC - Instituto Federal Catarinense Campus Araquari  
 📚 **Curso:** Técnico em Informática para Internet (2024 - 2026)  
 💡 **Foco:** Desenvolvimento Frontend & Fullstack  
 🏆 **Experiência:** Projetos Freelance & Participação em Hackathons
+
+---
 
 ## 🛠️ Tecnologias & Ferramentas
 
@@ -37,6 +39,8 @@ Sou estudante do **2º ano de Informática para Internet** no Instituto Federal 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
+---
+
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
@@ -54,47 +58,44 @@ Sou estudante do **2º ano de Informática para Internet** no Instituto Federal 
 </div>
 
 <div align="center">
+  
+### 🏆 Conquistas
+
+![](https://github-profile-trophy.vercel.app/?username=arthurlanz&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4)
+
+</div>
+
+---
 
 ## 🏆 Projetos em Destaque
 
 ### 🎬 [Sede do Medo](https://sededomedo.vercel.app)
-Plataforma de streaming especializada em filmes de terror com Vue.js e API TMDB.
+Plataforma de streaming especializada em filmes de terror com Vue.js e API TMDB.  
+**Tech Stack:** Vue.js • JavaScript • CSS3 • Axios • TMDB API • Vite
 
 ### 🎭 [Join-Ville](https://join-ville-dusky.vercel.app/)
-Plataforma de eventos culturais desenvolvida para o Hackaton do IFC Araquari.
+Plataforma de eventos culturais desenvolvida para o Hackaton do IFC Araquari.  
+**Tech Stack:** Vue.js • Django • Python
+
+### 🎥 [MetFlix](https://metflix-frontend-pi.vercel.app/)
+Plataforma de streaming completa com autenticação e backend robusto.  
+**Tech Stack:** Vue.js • Node.js • Django • JWT • Python
+
+### 🎨 [Artelie](https://artelieweb.web.app/) 
+Refatoração completa do frontend de PI com foco em UX/UI moderno.  
+**Tech Stack:** Vue.js • CSS3 • API Integration
+
+---
 
 ## 🎯 Objetivos Atuais
 
-- 🚀 Aprofundar conhecimentos em **Vue.js**
+- 🚀 Aprofundar conhecimentos em **Vue.js** 
 - 🔧 Desenvolver projetos fullstack completos
 - 🌱 Aprender **TypeScript**, **Docker** e **React**
 - 💼 Expandir portfolio com projetos comerciais
 - 🏆 Participar de mais hackathons e competições
 
-## 📈 Atividade Recente
+---
 
-- 💻 Trabalhando em projetos freelance
-- 🎓 Estudando Vue.js avançado
-- 🏗️ Desenvolvendo aplicações fullstack
-- 🤝 Colaborando em projetos open source
+## 📈 Atividade no GitHub
 
-## 🌐 Conecte-se Comigo
-
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-lanznaster-0546532b8/)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arthurlanz_)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arthurlanz)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthurlanznaster@gmail.com)
-  
-</div>
-
-
-<div align="center">
-  
-  ### Obrigado pela visita!
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=arthurlanz&color=667eea&style=for-the-badge)
-  
-  
-</div>
