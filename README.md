@@ -2,38 +2,42 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=667EEA&center=true&vCenter=true&width=435&lines=Desenvolvedor+em+Formação;Estudante+de+TI;)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=667EEA&center=true&vCenter=true&width=435&lines=Desenvolvedor+Frontend;Estudante+do+2º+Ano;IFC+Araquari)
   
 </div>
 
 ## 🚀 Sobre Mim
 
-Sou estudante de **Informática para Internet** no Instituto Federal Catarinense - Campus Araquari, apaixonado por tecnologia e desenvolvimento web. Sempre em busca de novos desafios e oportunidades para aprender e crescer na área de tecnologia.
+Sou estudante do **2º ano de Informática para Internet** no Instituto Federal Catarinense - Campus Araquari, apaixonado por tecnologia e desenvolvimento web. Sempre em busca de novos desafios e oportunidades para aprender e crescer na área de tecnologia.
 
 🌍 **Localização:** Joinville - Santa Catarina, Brasil  
-🎓 **Instituição:** IFC - Instituto Federal Catarinense  
-📚 **Curso:** Técnico em Informática para Internet  
-💡 **Foco:** Desenvolvimento Front End
+🎓 **Instituição:** IFC - Instituto Federal Catarinense Campus Araquari  
+📚 **Curso:** Técnico em Informática para Internet (2024 - 2026)  
+💡 **Foco:** Desenvolvimento Frontend & Fullstack  
+🏆 **Experiência:** Projetos Freelance & Participação em Hackathons
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
 
-### Front-end
+### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 
-### Back-end
+### Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Ferramentas
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ---
 
@@ -41,19 +45,51 @@ Sou estudante de **Informática para Internet** no Instituto Federal Catarinense
 
 <div align="center">
   
-  ![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurlanz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667EEA&icon_color=667EEA)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurlanz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667EEA&icon_color=667EEA&text_color=FFFFFF&count_private=true&include_all_commits=true"/>
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurlanz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667EEA)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurlanz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667EEA&text_color=FFFFFF&langs_count=6"/>
+  
+</div>
+
+<div align="center">
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arthurlanz&theme=tokyonight&hide_border=true&background=0D1117&ring=667EEA&fire=667EEA&currStreakLabel=667EEA)](https://git.io/streak-stats)
   
 </div>
 
 ---
 
+## 🏆 Projetos em Destaque
+
+### 🎬 [Sede do Medo](https://sededomedo.vercel.app)
+Plataforma de streaming especializada em filmes de terror com Vue.js e API TMDB.
+
+### 🎭 [Join-Ville](https://join-ville-dusky.vercel.app/)
+Plataforma de eventos culturais desenvolvida para o Hackaton do IFC Araquari.
+
+### 🎥 [MetFlix](https://metflix-frontend-pi.vercel.app/)
+Plataforma de streaming completa com autenticação e backend robusto.
+
+---
+
 ## 🎯 Objetivos Atuais
 
-- 📚 Aprofundar conhecimentos em **Vue.js** e frameworks modernos
-- 🔧 Desenvolver projetos práticos e completos
-- 🌱 Aprender novas tecnologias de back-end
+- 🚀 Aprofundar conhecimentos em **Vue.js** e **React**
+- 🔧 Desenvolver projetos fullstack completos
+- 🌱 Aprender **TypeScript** e **Docker**
+- 💼 Expandir portfolio com projetos comerciais
+- 🏆 Participar de mais hackathons e competições
+
+---
+
+## 📈 Atividade Recente
+
+<!--START_SECTION:activity-->
+- 💻 Trabalhando em projetos freelance
+- 🎓 Estudando Vue.js avançado
+- 🏗️ Desenvolvendo aplicações fullstack
+- 🤝 Colaborando em projetos open source
+<!--END_SECTION:activity-->
 
 ---
 
@@ -64,6 +100,7 @@ Sou estudante de **Informática para Internet** no Instituto Federal Catarinense
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-lanznaster-0546532b8/)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arthurlanz_)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arthurlanz)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthurlanznaster@gmail.com)
   
 </div>
 
@@ -74,5 +111,7 @@ Sou estudante de **Informática para Internet** no Instituto Federal Catarinense
   ### 💜 Obrigado pela visita!
   
   ![Profile Views](https://komarev.com/ghpvc/?username=arthurlanz&color=667eea&style=for-the-badge)
+  
+  ⭐ Desenvolvido com ❤️ por Arthur Lanznaster
   
 </div>
