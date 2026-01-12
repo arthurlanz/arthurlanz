@@ -95,7 +95,4 @@ Refatoração completa do frontend de PI com foco em UX/UI moderno.
 - 💼 Expandir portfolio com projetos comerciais
 - 🏆 Participar de mais hackathons e competições
 
----
-
-## 📈 Atividade no GitHub
 
