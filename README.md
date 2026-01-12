@@ -69,7 +69,7 @@ Sou estudante do **2º ano de Informática para Internet** no Instituto Federal 
 
 ## 🏆 Projetos em Destaque
 
-### 🎬 [Sede do Medo](https://sededomedo.vercel.app)
+### 🎬 [Sede do Medo](https://sededomedopi.vercel.app/)
 Plataforma de streaming especializada em filmes de terror com Vue.js e API TMDB.  
 **Tech Stack:** Vue.js • JavaScript • CSS3 • Axios • TMDB API • Vite
 
