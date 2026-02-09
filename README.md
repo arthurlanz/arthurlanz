@@ -8,7 +8,7 @@
 
 ## 🚀 Sobre Mim
 
-Sou estudante do **2º ano de Informática para Internet** no Instituto Federal Catarinense - Campus Araquari, em busca de novos desafios e oportunidades para aprender e crescer na área de tecnologia.
+Sou estudante do **3º ano de Informática para Internet** no Instituto Federal Catarinense - Campus Araquari, em busca de novos desafios e oportunidades para aprender e crescer na área de tecnologia.
 
 🌍 **Localização:** Joinville - Santa Catarina, Brasil  
 🎓 **Instituição:** IFC - Instituto Federal Catarinense Campus Araquari  
