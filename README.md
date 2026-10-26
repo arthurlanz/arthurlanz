@@ -109,7 +109,15 @@ Sistema para organizar o hackathon do IFC: edições, inscrições, equipes, env
 
 ## Trabalhos freelance
 
-Atuei como freelancer na finalização de projetos web de terceiros, com grande participação no desenvolvimento:
+### Ramon Autopeças · cliente real
+Vitrine digital de uma loja de autopeças. O catálogo é sincronizado com a loja oficial no Mercado Livre e o cliente é direcionado ao WhatsApp para negociar.
+
+- **Meu papel:** desenvolvimento do frontend (a vitrine)
+- **Stack:** Vue 3 · Vite · Pinia, consumindo uma API Django + Celery integrada ao Mercado Livre
+- 🔗 [Site](https://ramonautopecas.com.br/) · [Documentação](https://github.com/Ramon-Autopecas/.github)
+
+### Finalização de projetos de terceiros
+Atuei na finalização de projetos web de outras pessoas, com grande participação no desenvolvimento:
 
 - **[MetFlix](https://metflix-frontend-pi.vercel.app/):** plataforma de streaming com autenticação · Vue.js · Django · JWT
 - **[Artelie](https://artelieweb.web.app/):** refatoração completa do frontend com foco em UX/UI · Vue.js
